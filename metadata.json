@@ -1,0 +1,6 @@
+{
+  "name": "Elite Estate Pro",
+  "description": "A luxury, professional real estate platform featuring premium property listings, property comparison, comparison wishlist, interactive search, lead capturing, and an editable content management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
